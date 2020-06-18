@@ -1,3 +1,6 @@
 [submodule "Action_Recognition"]
 	path = Action_Recognition
 	url = https://github.com/rajasaad7/HAC.git
+[submodule "Yelo"]
+	path = Yelo
+	url = https://github.com/rajasaad7/yelo
